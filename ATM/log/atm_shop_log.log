@@ -1,0 +1,3 @@
+[2019-04-12 15:45:24,034][MainThread:19728][task_id:bank][bank.py:26][INFO][用户: [tank] 提现[5000￥]！手续费: [250.0]]
+[2019-04-12 15:56:28,543][MainThread:16020][task_id:user][user.py:29][INFO][用户: [owen] 注册成功!]
+[2019-04-12 19:26:55,658][MainThread:11812][task_id:user][user.py:32][INFO][用户: [cao] 注册成功!]
